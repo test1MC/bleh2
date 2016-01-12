@@ -9,5 +9,5 @@
     Link="/Content/B.htm" />
   <TocEntry
     Title="C"
-    Link="/Content/D.htm" />
+    Link="/Content/C.htm" />
 </CatapultToc>
